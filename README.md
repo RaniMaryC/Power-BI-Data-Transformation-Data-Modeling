@@ -6,7 +6,7 @@ This repository contains Assignment 1 of Power BI. It focuses on cleaning, trans
 ## Tools Used
 - Power BI Desktop
 - Power Query Editor
-- DAX
+  
 
 ## Files in this Repository
 - `PowerBI-Assignment1.pbix` - Main Power BI file with data model and transformations
